@@ -1,0 +1,11 @@
+displayName = [c/A9A9A9:Stone][c/6F6F6F:Spawn]
+author = Steviegt6
+version = 1.0.0
+noCompile = false
+homepage = https://discordapp.com/invite/qrZ4Bpz
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = build.txt, .gitattributes, .gitignore, .git/, .vs/, .idea/, bin/, obj/, Thumbs.db, .csproj, .cs, .sln
+includePDB = false
+icon = icon.png
